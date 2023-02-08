@@ -32,7 +32,7 @@
 #define SAMPLE_RATE (93750)
 #define ZERO_BUFFER 48
 #define I2S_NUM (0)
-#define I2S_DO_IO (GPIO_NUM_25)
+#define I2S_DO_IO (GPIO_NUM_19)
 #define I2S_DI_IO (-1)
 
 typedef struct {
